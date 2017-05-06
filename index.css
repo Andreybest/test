@@ -8,3 +8,6 @@
 	color: green;
 	text-align: center;
 }
+html {
+    touch-action: none;
+}
