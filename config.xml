@@ -4,10 +4,13 @@
     <description>
         A blank PhoneGap app.
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
+    <author email="andrey255@live.com" href="http://phonegap.com">
         PhoneGap Team
     </author>
     <content src="index.html" />
+	<preference name="orientation" value="portrait" />
+	<preference name="DisallowOverscroll" value="true" />
 	<preference name="windows-arch" value="arm" />
     <access origin="*" />
+
 </widget>
