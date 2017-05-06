@@ -8,6 +8,7 @@
         Andrew Team
     </author>
     <content src="index.html" />
+	<preference name="phonegap-version" value="cli-6.5.0" />
 	<preference name="orientation" value="portrait" />
 	<preference name="DisallowOverscroll" value="true" />
 	<preference name="windows-arch" value="arm" />
