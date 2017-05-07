@@ -11,6 +11,7 @@
 	<preference name="phonegap-version" value="cli-6.5.0" />
 	<preference name="windows-arch" value="arm" />
 	<preference name="fullscreen" value="true" />
+	<preference name="windows-target-version" value="8.1" />
     <access origin="*" />
 
 </widget>
