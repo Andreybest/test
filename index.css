@@ -9,13 +9,18 @@
 	text-align: center;
 	font-size: 3.5vw;
 }
-html {
+/*html {
     touch-action: none;
-}
+}*/
 #tabs {
 
 }
 iframe {
 	position: inherit;
 	margin-top: 10px;
+}
+
+body {
+	background-color: purple;
+	touch-action: none;
 }
